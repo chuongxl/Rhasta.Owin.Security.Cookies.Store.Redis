@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhasta.Owin.Security.Cookies.Store.Redis", "Rhasta.Owin.Security.Cookies.Store.Redis\Rhasta.Owin.Security.Cookies.Store.Redis.csproj", "{5B3F9104-9A0F-466D-A4C3-BA0BDB04F197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rhasta.Owin.Security.Cookies.Store.Demo", "Rhasta.Owin.Security.Cookies.Store.Demo\Rhasta.Owin.Security.Cookies.Store.Demo.csproj", "{CD48C237-5495-492D-878B-83F1C579E92B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B3F9104-9A0F-466D-A4C3-BA0BDB04F197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3F9104-9A0F-466D-A4C3-BA0BDB04F197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3F9104-9A0F-466D-A4C3-BA0BDB04F197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3F9104-9A0F-466D-A4C3-BA0BDB04F197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD48C237-5495-492D-878B-83F1C579E92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD48C237-5495-492D-878B-83F1C579E92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD48C237-5495-492D-878B-83F1C579E92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD48C237-5495-492D-878B-83F1C579E92B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
