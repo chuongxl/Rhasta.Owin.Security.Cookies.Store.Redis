@@ -7,6 +7,7 @@ using System.Web.Http;
 
 namespace Rhasta.Owin.Security.Cookies.Store.Demo.Controllers
 {
+    [Authorize]
     public class ValuesController : ApiController
     {
         // GET api/values

@@ -72,7 +72,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AuthenticationTicke.cs" />
+    <Compile Include="RedisAuthenticationTicket.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RedisSessionStore.cs" />
   </ItemGroup>
